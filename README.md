@@ -1,6 +1,8 @@
 # SQL Data Analytics Project
 
-You explore a sales database step by step, then go deeper with trends, segments and two full reports.
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+
+This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 
 ```
 sql-data-analytics-project/
@@ -17,6 +19,17 @@ The project has two parts, and the scripts follow them:
 - **Exploratory data analysis**, scripts `01` to `06`: you get to know the data, from the tables and dates to the big numbers and the top performers.
 - **Advanced analytics**, scripts `07` to `13`: you go deeper with trends, running totals, performance, part-to-whole and segments. Two reports close the project, one for customers and one for products.
 ---
+
+### The SQL projects
+
+| Project| Materials |
+|:--|:--|
+| **Data Warehouse** |[Repository](https://github.com/karthimahi/sql-data-warehouse-project) |
+| **Exploratory Data Analysis** | this repository |
+| **Advanced Data Analytics** | this repository  | |
+
+---
+
 ### 🛡️License
 
 This project is licensed under the [MIT License]. You are free to use, modify, and share this project with proper attribution.
