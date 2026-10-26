@@ -13,7 +13,6 @@ SQL Functions Used:
     - CASE: Defines conditional logic for trend analysis.
 ===============================================================================
 */
-
 /* Analyze the yearly performance of products by comparing their sales 
 to both the average sales performance of the product and the previous year's sales */
 WITH yearly_product_sales AS (
