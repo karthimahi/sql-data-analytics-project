@@ -20,11 +20,11 @@ SELECT
     TABLE_TYPE
 FROM INFORMATION_SCHEMA.TABLES;
 
--- Retrieve all columns for a specific table (dim_customers)
+-- Retrieve all columns for a specific table (dim_customers or dim_products or fact_sales) 
 SELECT 
     COLUMN_NAME, 
     DATA_TYPE, 
     IS_NULLABLE, 
     CHARACTER_MAXIMUM_LENGTH
 FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_NAME = 'dim_customers';
+WHERE TABLE_NAME = 'dim_customers' OR TABLE_NAME = 'dim_products' OR TABLE_NAME = 'fact_sales';
