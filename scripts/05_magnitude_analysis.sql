@@ -12,6 +12,7 @@ SQL Functions Used:
 ===============================================================================
 */
 
+
 -- Find total customers by countries
 SELECT
     country,
