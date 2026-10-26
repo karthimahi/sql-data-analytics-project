@@ -11,7 +11,6 @@ SQL Functions Used:
     - Clauses: GROUP BY, ORDER BY
 ===============================================================================
 */
-
 -- Which 5 products Generating the Highest Revenue?
 -- Simple Ranking
 SELECT TOP 5
