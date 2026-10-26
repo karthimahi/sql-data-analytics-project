@@ -10,7 +10,6 @@ SQL Functions Used:
     - COUNT(), SUM(), AVG()
 ===============================================================================
 */
-
 -- Find the Total Sales
 SELECT SUM(sales_amount) AS total_sales FROM gold.fact_sales
 
