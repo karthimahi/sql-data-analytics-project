@@ -12,7 +12,6 @@ SQL Functions Used:
     - Aggregate Functions: SUM(), COUNT(), AVG()
 ===============================================================================
 */
-
 -- Analyse sales performance over time
 -- Quick Date Functions
 SELECT
