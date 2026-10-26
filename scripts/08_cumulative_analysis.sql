@@ -11,7 +11,6 @@ SQL Functions Used:
     - Window Functions: SUM() OVER(), AVG() OVER()
 ===============================================================================
 */
-
 -- Calculate the total sales per month 
 -- and the running total of sales over time 
 SELECT
