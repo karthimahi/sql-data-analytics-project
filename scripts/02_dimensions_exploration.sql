@@ -11,7 +11,6 @@ SQL Functions Used:
     - ORDER BY
 ===============================================================================
 */
-
 -- Retrieve a list of unique countries from which customers originate
 SELECT DISTINCT 
     country 
