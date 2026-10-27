@@ -1,4 +1,6 @@
-# SQL Data Analytics Project
+# SQL Data Analytics Project Overview
+
+This project is a **continuation** of [Repository](https://github.com/karthimahi/sql-data-warehouse-project/), where we built a modern data warehouse with three layers, bronze, silver and gold **(Medallion Architecture)** to generate actionable insights for decision making.
 
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
 
