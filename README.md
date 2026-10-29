@@ -32,7 +32,7 @@ sql-data-analytics-project/
 The project has two parts, and the scripts follow them:
 
 - **Exploratory data analysis**, scripts `01` to `06`: you get to know the data, from the tables and dates to the big numbers and the top performers.
-- **Advanced analytics**, scripts `07` to `13`: you go deeper with trends, running totals, performance, part-to-whole and segments. Two reports close the project, one for customers and one for products.
+- **Advanced analytics**, scripts `07` to `11`: you go deeper with trends, running totals, performance, part-to-whole and segments. Two reports close the project, one for customers and one for products.
 ---
 
 ## ⚙️ Tools & Services Used
@@ -48,22 +48,32 @@ The project has two parts, and the scripts follow them:
 
 ### 1. Exploratory data analysis
 
-- Database Exploration - [01_database_exploration](scripts/01_database_exploration.sql)
-- Dimensions Exploration - [02_dimensions_exploration](scripts/02_dimensions_exploration.sql)
-- Data Range Exploration - [03_date_range_exploration](scripts/03_date_range_exploration.sql)
-- Measures Exploration - [04_measures_exploration](scripts/04_measures_exploration.sql)
-- Magnitude Analysis - [05_magnitude_analysis](scripts/05_magnitude_analysis.sql)
-- Ranking Analysis - [06_ranking_analysis](scripts/06_ranking_analysis.sql)
+| Name of the Analysis | Scripts |
+|:--|:--|
+| **Database Exploration** | [01_database_exploration](scripts/01_database_exploration.sql) |
+| **Dimensions Exploration** | [02_dimensions_exploration](scripts/02_dimensions_exploration.sql) |
+| **Data Range Exploration** |  [03_date_range_exploration](scripts/03_date_range_exploration.sql) |
+| **Measures Exploration** | [04_measures_exploration](scripts/04_measures_exploration.sql) |
+| **Magnitude Analysis** | [05_magnitude_analysis](scripts/05_magnitude_analysis.sql) |
+| **Ranking Analysis** | [06_ranking_analysis](scripts/06_ranking_analysis.sql) |
 
 ### 2. Advanced analytics
 
-- Change Over Time Analysis - [07_change_over_time_analysis](scripts/07_change_over_time_analysis.sql)
-- Cumulative Analysis - [08_cumulative_analysis](scripts/08_cumulative_analysis.sql)
-- Performance Analysis - [09_performance_analysis](scripts/09_performance_analysis.sql)
-- Data Segmentatioon - [10_data_segmentation](scripts/10_data_segmentation.sql)
-- Part to Whole Analysis - [11_part_to_whole_analysis](scripts/11_part_to_whole_analysis.sql)
-- Customers Report - [12_report_customers](scripts/12_report_customers.sql)
-- Products Report - [13_report_products](scripts/13_report_products.sql)
+| Name of the Analysis | Scripts |
+|:--|:--|
+| **Change Over Time Analysis** | [07_change_over_time_analysis](scripts/07_change_over_time_analysis.sql) |
+| **Cumulative Analysis** | [08_cumulative_analysis](scripts/08_cumulative_analysis.sql) |
+| **Performance Analysis** |  [09_performance_analysis](scripts/09_performance_analysis.sql) |
+| **Data Segmentation** | [10_data_segmentation](scripts/10_data_segmentation.sql) |
+| **Part to Whole Analysis** | [11_part_to_whole_analysis](scripts/11_part_to_whole_analysis.sql) |
+
+### 3. Final Report
+
+| Report Name | Scripts |
+|:--|:--|
+| **Customers Report** | [12_report_customers](scripts/12_report_customers.sql) |
+| **Products Report** | [13_report_products](scripts/13_report_products.sql) |
+
 ---
 
 ### The SQL projects
